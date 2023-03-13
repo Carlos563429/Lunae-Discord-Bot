@@ -349,3 +349,8 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 .env
+
+#De nuevo porque no funciona aaaaa
+.env
+.venv
+*.env
